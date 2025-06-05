@@ -1,11 +1,12 @@
-# Best NSFW AI Chatbots
-A repository containing the top NSFW AI Chatbots at the current moment. 
+# Best NSFW AI Chatbot & NSFW AI Girlfriend
 
 
-CandyAI
-LUVR
-GirlfriendGPT
-Soulkyn
-Ourdream
-ThotChat
 
+|               | NSFW AI Chatbot | NSFW AI Girlfriend |
+|---------------|-----------------|--------------------|
+| [CandyAI](https://nsfwgen.xyz/candyai)       | ✅               | ✅                  |
+| [GirlfriendGPT](https://nsfwgen.xyz/girlfriendgpt)  | ✅               | ✅                  |
+| [Ourdream](https://nsfwgen.xyz/ourdream)       | ✅               | ✅                  |
+| [Thotchat](https://nsfwgen.xyz/thotchat)       | ✅               | ✅                  |
+| [Soulkyn](https://nsfwgen.xyz/soulkyn)        | ✅               | ✅                  |
+| [LUVR](https://nsfwgen.xyz/luvr)           | ✅               | ✅                  |
